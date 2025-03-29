@@ -1,0 +1,20 @@
+{ "name": "gitg",
+  "version": "0.0.0",
+  "description": "Show git history as a nice railroad diagram.",
+  "keywords": [],
+
+  "author": "Jesse van den Kieboom",
+  "homepage": "https://wiki.gnome.org/Apps/Gitg",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/gnome-gitg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/gnome-gitg/issues"
+  },
+
+  "private": true, "license": "GPL-2.0-or-later",
+
+
+  "engines": {}
+}
